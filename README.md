@@ -1,24 +1,46 @@
-👋 Hey there, I'm Saurabh!
+# 👋 Hey there, I'm Saurabh!  
 
-🚀 Full Stack Developer | DSA Enthusiast | Cloud Practitioner
+🚀 **Full Stack Developer | DSA Enthusiast | Cloud Practitioner**  
 
-🔹 Passionate about solving problems using Data Structures & Algorithms🔹 Skilled in MERN Stack, C++, Python, SQL, and Cloud Technologies🔹 Constantly learning and building awesome projects
+🔹 Passionate about solving problems using **Data Structures & Algorithms**  
+🔹 Skilled in **MERN Stack, C++, Python, SQL, and Cloud Technologies**  
+🔹 Constantly learning and building awesome projects  
 
-🧐 Tech Stack
+---
 
-💻 Languages: C++, Python, JavaScript, SQL🌐 Frontend: HTML, CSS, Tailwind, Bootstrap, React.js🟢 Backend: Node.js, Express.js, MongoDB, MySQL☁ Cloud & DevOps: Microsoft Azure📚 Other Tools: Git, GitHub, VS Code
+## 🛠️ Tech Stack  
 
-📌 Projects
+💻 **Languages:** C++, Python, JavaScript, SQL  
+🌐 **Frontend:** HTML, CSS, Tailwind, Bootstrap, React.js  
+🛢️ **Backend:** Node.js, Express.js, MongoDB, MySQL  
+☁ **Cloud & DevOps:** Microsoft Azure  
+📚 **Other Tools:** Git, GitHub, VS Code  
 
-🚀 Garbage Reporting and Management System - Efficient waste tracking & reporting🏋 Gym Website - A fully responsive fitness website🌍 Weather App - A real-time weather forecasting application
+---
 
-📊 GitHub Stats
+## 📌 Projects  
 
+🚀 **[Garbage Reporting and Management System](https://github.com/your-repo)** - Efficient waste tracking & reporting  
+🏋 **[Gym Website](https://saurabhxcod.github.io/GymWebsite/)** - A fully responsive fitness website  
+🌦 **[Weather App](https://weather-app-six-flax-22.vercel.app/)** - A real-time weather application  
+🖼 **[Pixabay Clone](https://pixabay-clone-silk.vercel.app/)** - A stunning image search app using Pixabay API  
 
+---
 
-🌍 Connect With Me
+## 📊 GitHub Stats  
 
-🔗 Portfolio: [Coming Soon]📂 LinkedIn: Saurabh💻 GitHub: @saurabhxcod🎯 Codolio Profile: Saurabh on Codolio
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhxcod&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhxcod&layout=compact&theme=radical)  
 
-🚀 Always open to collaborating on exciting projects and learning new technologies!
+---
 
+## 🌍 Connect With Me  
+
+🔗 **Portfolio:** [Coming Soon]  
+📂 **LinkedIn:** [Saurabh](https://www.linkedin.com/in/saurabh-singh-258a23289/)  
+💻 **GitHub:** [@saurabhxcod](https://github.com/saurabhxcod)  
+🎯 **Codolio Profile:** [Saurabh on Codolio](https://codolio.com/profile/saurabh_singh27)  
+
+---
+
+🚀 *Always open to collaborating on exciting projects and learning new technologies!*  
