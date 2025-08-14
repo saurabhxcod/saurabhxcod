@@ -20,7 +20,7 @@
 
 ## 📌 Projects  
 
-🚀 **[Garbage Reporting and Management System](https://github.com/your-repo)** - Efficient waste tracking & reporting  
+🚀 **[SpendSense](https://speed-sense-q66j.vercel.app/)** -AI-powered expense tracking & financial insights
 🏋 **[Gym Website](https://saurabhxcod.github.io/GymWebsite/)** - A fully responsive fitness website  
 🌦 **[Weather App](https://weather-app-six-flax-22.vercel.app/)** - A real-time weather application  
 🖼 **[Pixabay Clone](https://pixabay-clone-silk.vercel.app/)** - A stunning image search app using Pixabay API  
