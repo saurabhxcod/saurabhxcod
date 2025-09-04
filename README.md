@@ -25,7 +25,7 @@
 - 🚀 Skilled in **MERN Stack, Cloud Technologies, C++, Python, SQL**  
 - 🌱 Currently learning **AI Integrations in Full-Stack Apps**  
 - 📂 Open for **collaborations** on exciting projects  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/your_resume_link/view)  
+- 📄 Check out my [Resume](https://docs.google.com/document/d/1hQumiRsW6dhpfxbioVJtFEve1P_GoI84/edit?usp=drive_link&ouid=100841607452338653941&rtpof=true&sd=true)  
 
 ---
 
@@ -83,11 +83,13 @@
 
 ---
 
-## 📌 Projects
+## 📌 Projects  
+- 💼 **[Job Junction](https://job-portal-1-zxri.onrender.com/)** – Full-featured job portal with role-based dashboards, job browsing, and application management  
 - 🚀 **[SpendSense](https://speed-sense-q66j.vercel.app/)** – AI-powered expense tracking & insights  
 - 🏋 **[Gym Website](https://saurabhxcod.github.io/GymWebsite/)** – Fully responsive fitness site  
 - 🌦 **[Weather App](https://weather-app-six-flax-22.vercel.app/)** – Real-time weather updates  
 - 🖼 **[Pixabay Clone](https://pixabay-clone-silk.vercel.app/)** – Image search app using Pixabay API  
+ 
 
 ---
 
