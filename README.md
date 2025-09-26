@@ -62,7 +62,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" height="30"/>
 </p>
 
 ### 🛢️ Backend & Databases
@@ -71,6 +73,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" height="30"/>
 </p>
 
 ### ☁ Cloud & Tools
@@ -79,7 +82,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white" height="30"/>
 </p>
+
 
 ---
 
