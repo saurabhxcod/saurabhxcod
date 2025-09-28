@@ -25,7 +25,7 @@
 - 🚀 Skilled in **MERN Stack, Cloud Technologies, C++, Python, SQL**  
 - 🌱 Currently learning **AI Integrations in Full-Stack Apps**  
 - 📂 Open for **collaborations** on exciting projects  
-- 📄 Check out my [Resume](https://docs.google.com/document/d/1hQumiRsW6dhpfxbioVJtFEve1P_GoI84/edit?usp=drive_link&ouid=100841607452338653941&rtpof=true&sd=true)  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1GnIB6rZNr6G0_OZNfiYbBq7A8zDekjMg/view?usp=sharing)  
 
 ---
 
