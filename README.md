@@ -88,12 +88,95 @@
 
 ---
 
-## 📌 Projects  
-- 💼 **[Job Junction](https://job-portal-1-zxri.onrender.com/)** – Full-featured job portal with role-based dashboards, job browsing, and application management  
-- 🚀 **[SpendSense](https://speed-sense-q66j.vercel.app/)** – AI-powered expense tracking & insights  
-- 🏋 **[Gym Website](https://saurabhxcod.github.io/GymWebsite/)** – Fully responsive fitness site  
-- 🌦 **[Weather App](https://weather-app-six-flax-22.vercel.app/)** – Real-time weather updates  
-- 🖼 **[Pixabay Clone](https://pixabay-clone-silk.vercel.app/)** – Image search app using Pixabay API  
+# 🚀 My Projects Portfolio
+
+Welcome to my collection of full-stack and AI-powered web projects!  
+Each project showcases different aspects of modern web development — from backend APIs and AI integrations to responsive frontend design.
+
+---
+
+## 💼 [Job Junction](https://job-portal-1-zxri.onrender.com/)
+A full-featured **Job Portal** with role-based dashboards and complete job management system.
+
+**Features:**
+- Role-based dashboards for employers and job seekers  
+- Post, browse, and apply for jobs  
+- Application tracking and management  
+- Authentication with JWT  
+- RESTful API with Express and MongoDB  
+
+**Tech Stack:**  
+`Node.js` • `Express` • `MongoDB` • `React` • `Tailwind CSS`
+
+---
+
+## 🚀 [SpendSense](https://speed-sense-q66j.vercel.app/)
+An **AI-powered expense tracker** that provides real-time financial insights and spending analysis.
+
+**Features:**
+- AI-generated insights for spending behavior  
+- Dynamic data visualization with charts  
+- CRUD operations for expenses  
+- Secure and user-friendly dashboard  
+
+**Tech Stack:**  
+`React` • `Chart.js` • `OpenAI API` • `Node.js` • `Tailwind CSS`
+
+---
+
+## 🧠 [AI Virtual Assistant](https://ai-virtual-assistant-12.onrender.com/)
+A **voice-enabled AI assistant** that performs real-time tasks and answers user queries.
+
+**Features:**
+- Speech recognition and text-to-speech integration  
+- Real-time query handling  
+- AI-driven conversational responses  
+- Lightweight, responsive design  
+
+**Tech Stack:**  
+`JavaScript` • `HTML` • `CSS` • `OpenAI API` • `Web Speech API`
+
+---
+
+## 🏋 [Gym Website](https://saurabhxcod.github.io/GymWebsite/)
+A **fully responsive fitness website** designed for gyms and fitness trainers.
+
+**Features:**
+- Interactive homepage and service sections  
+- Trainer profiles and schedules  
+- Mobile-friendly and responsive design  
+
+**Tech Stack:**  
+`HTML` • `CSS` • `JavaScript`
+
+---
+
+## 🌦 [Weather App](https://weather-app-six-flax-22.vercel.app/)
+A **real-time weather application** providing accurate weather data and forecasts.
+
+**Features:**
+- Fetches live data from OpenWeather API  
+- Displays temperature, humidity, and weather icons  
+- Clean and modern responsive UI  
+
+**Tech Stack:**  
+`React` • `OpenWeather API` • `CSS`
+
+---
+
+## 🖼 [Pixabay Clone](https://pixabay-clone-silk.vercel.app/)
+An **image search and discovery app** powered by the Pixabay API.
+
+**Features:**
+- Search for high-quality images  
+- Infinite scrolling gallery  
+- Responsive image layout  
+
+**Tech Stack:**  
+`React` • `Pixabay API` • `CSS`
+
+---
+
  
 
 ---
