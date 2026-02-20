@@ -24,7 +24,7 @@
 - 🤖 Building **AI-powered real-world applications**
 - 🤝 Open to **internships, collaborations & freelance**
 - 📄 **Resume:**  
-  👉 <a href="https://drive.google.com/file/d/1cv_18kGLmN0A3J6CMMGEZ2aRC00XJiwk/view?usp=drive_link" target="_blank"><b>View Resume</b></a>
+  👉 <a href="https://drive.google.com/file/d/1UGzXwLdBV4CCjpoB3702rNayGdrmUgnH/view?usp=drive_link" target="_blank"><b>View Resume</b></a>
 
 ---
 
