@@ -24,7 +24,7 @@
 - 🤖 Building **AI-powered real-world applications**
 - 🤝 Open to **internships, collaborations & freelance**
 - 📄 **Resume:**  
-  👉 <a href="https://drive.google.com/file/d/1UGzXwLdBV4CCjpoB3702rNayGdrmUgnH/view?usp=drive_link" target="_blank"><b>View Resume</b></a>
+  👉 <a href="https://drive.google.com/file/d/1GQXjbMceklT8IDPIOUHTrkTc260D-j3L/view?usp=sharing" target="_blank"><b>View Resume</b></a>
 
 ---
 
@@ -104,12 +104,17 @@
 
 ## 🚀 Projects Portfolio
 
-- 💼 **Job Junction** – Full-Stack Job Portal (MERN)
-- 🚀 **SpendSense** – AI-Powered Expense Tracker
-- 🧠 **AI Virtual Assistant** – Voice-Enabled AI App
-- 🏋 **Gym Website** – Responsive Fitness Website
-- 🌦 **Weather App** – Real-Time Weather Application
-- 🖼 **Pixabay Clone** – Image Search Platform
+-💼** Job Junction** – Full-Stack Job Portal (MERN)
+-🎓 **CampusConnect** – Role-Based Campus Event & Club Management Platform (MERN + AI + QR Attendance)
+-💰** MetalPricing** – Real-Time Gold & Silver Price Tracking App with Admin Dashboard
+-📚 **LMS** (Learning Management System) – Course, Enrollment & Progress Tracking Platform
+-🚀** SpendSense **– AI-Powered Expense Tracker
+-🧠 **AI Virtual Assistant** – Voice-Enabled AI App
+-🏋** Fitness Tracker** – Workout & Health Monitoring Application
+-🏫** Student Result Management System** – Academic Performance & Result Processing System
+-🏋** Gym Website** – Responsive Fitness Website
+-🌦 **Weather App **– Real-Time Weather Application
+-🖼 **Pixabay Clone** – Image Search Platform – Image Search Platform
 
 ---
 
